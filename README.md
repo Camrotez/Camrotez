@@ -22,7 +22,7 @@
 </p>
 
 ## 📈 Statistiche GitHub
-![Statistiche GitHub di Luciano Rea](https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&theme=radical)
+![Statistiche GitHub di Luciano Rea](https://github-readme-stats.vercel.app/api?username=Camrotez&show_icons=true&theme=radical)
 
 ## 📫 Contatti
 - 🌐 [LinkedIn](https://www.linkedin.com/in/luciano-rea-a3437b285/)
