@@ -31,5 +31,5 @@
 
 ## 📫 Contact
 - 🌐 [LinkedIn](https://www.linkedin.com/in/luciano-rea-a3437b285/)
-- 📧 [Email](lunick997@gmail.com)
+- 📧 [lunick997@gmail.com]
 - 📷 [Instagram](https://www.instagram.com/camrotez_)
